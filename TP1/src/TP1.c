@@ -11,7 +11,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "franBiblioteca.h"
+#include "utn_bibliotecaAritmeticas.h"
 
 int main(void) {
 	setbuf(stdout, NULL);
